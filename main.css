@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Gayathri-container {
+    background-color: #d8dfe3;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image {
+    height: 35px;
+    width: 35px;
+    margin-top: 18px;
+}
+
+.bg-container {
+    background-color: transparent;
+}
+
+.heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 15px;
+    padding: 14px;
+    font-weight: bold;
+}
+
+.heading2 {
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 20px;
+    margin: 4px;
+    margin-top: 15px;
+}
+
+.bg-container1 {
+    background-color: #4a4843;
+    height: 50px;
+    padding: 15px;
+}
+
+.heading1 {
+    color: white;
+    font-size: 18px;
+    margin-right: 18px;
+}
+
+.student-heading {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-decoration: underline;
+    margin-top: 15px;
+}
